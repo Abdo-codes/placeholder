@@ -2,6 +2,8 @@
 
 A React web app for generating custom placeholder images with specific dimensions.
 
+**Live Demo:** https://placeholder-design.netlify.app/
+
 ## Features
 
 - Custom width and height (1-4096px)
